@@ -2,6 +2,16 @@
 
 All changes to G-Code Language Extension will be documented here.
 
+## v0.7.8 
+
+### Fixes
+
+- Added File types .tcn & .mmp to fix issues [#65] & [#71] 
+
+### Other
+
+- 
+
 ## v0.7.7 [#](https://github.com/appliedengdesign/vscode-gcode-syntax/releases/tag/v0.7.7)
 
 ### Fixes

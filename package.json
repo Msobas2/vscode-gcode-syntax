@@ -102,6 +102,7 @@
                     ".lib",
                     ".m",
                     ".min",
+                    ".mmg",
                     ".mpf",
                     ".mpr",
                     ".msb",
@@ -127,6 +128,7 @@
                     ".ssb",
                     ".sub",
                     ".tap",
+                    ".tcn",
                     ".xpi"
                 ],
                 "configuration": "./language/gcode-language.json"

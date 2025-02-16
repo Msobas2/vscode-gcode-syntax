@@ -84,7 +84,7 @@ This extension adds language syntax for CNC G-Code, code snippets, and colorizat
 | .mpr   | .msb | .nc    | .ncc   | .ncd | .ncf | .ncg | .nci |
 | .ncp   | .ngc | .out   | .pim   | .pit | .plt | .ply | .prg |
 | .pu1   | .rol | .S     | .sbp   | .spf | .ssb | .sub | .tap |
-| .xpi   |      |        |        |      |      |      |      |
+| .tcn   | .xpi | .mmg   |        |      |      |      |      |
 ```
 
 If you would like another file extension supported by this extension, please [open an issue](https://github.com/appliedemgdesign/vscode-gcode-syntax/issues).
@@ -162,6 +162,8 @@ For more information on contributing, please refer to the [CONTRIBUTING](https:/
 - Mike Centola ([@mikecentola](https://github.com/mikecentola)) - [contributions](https://github.com/appliedengdesign/vscode-gcode-syntax/commits?author=mikecentola)
 - Zach Allaun ([@zachallaun](https://github.com/zachallaun)) - [contributions](https://github.com/appliedengdesign/vscode-gcode-syntax/commits?author=zachallaun)
 - Patrick Connolly ([@patcon](https://github.com/patcon)) - [contributions](https://github.com/appliedengdesign/vscode-gcode-syntax/commits?author=patcon)
+- Marcin Sobas ([@Msobas2](https://github.com/Msobas2)) - [contributions](https://github.com/appliedengdesign/vscode-gcode-syntax/commits?author=Msobas2)
+
 
 ## About Applied Eng & Design
 
