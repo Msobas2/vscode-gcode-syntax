@@ -6,7 +6,7 @@ All changes to G-Code Language Extension will be documented here.
 
 ### Fixes
 
-- Added File types .tcn & .mmp to fix issues [#65] & [#71] 
+- Added File types .anc , .tcn & .mmp to fix issues  [#63],[#65] & [#71] 
 
 ### Other
 

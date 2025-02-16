@@ -84,7 +84,7 @@ This extension adds language syntax for CNC G-Code, code snippets, and colorizat
 | .mpr   | .msb | .nc    | .ncc   | .ncd | .ncf | .ncg | .nci |
 | .ncp   | .ngc | .out   | .pim   | .pit | .plt | .ply | .prg |
 | .pu1   | .rol | .S     | .sbp   | .spf | .ssb | .sub | .tap |
-| .tcn   | .xpi | .mmg   |        |      |      |      |      |
+| .tcn   | .xpi | .mmg   | .anc   |      |      |      |      |
 ```
 
 If you would like another file extension supported by this extension, please [open an issue](https://github.com/appliedemgdesign/vscode-gcode-syntax/issues).
